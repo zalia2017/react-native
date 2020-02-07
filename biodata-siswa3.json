@@ -1,0 +1,11 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "biodata": [
+    { "id": "1", "nama": "Zulka", "alamat": "1977" },
+    { "id": "2", "nama": "Ali", "alamat": "1985" },
+    { "id": "3", "nama": "Ajuab", "alamat": "1999" },
+    { "id": "4", "nama": "Tony", "alamat": "2010" },
+    { "id": "5", "nama": "Stark", "alamat": "2014" }
+  ]
+}
