@@ -1,4 +1,6 @@
 {
+  "title" : "The Basics - Networking",
+  "description" : "Your app fetched this from a remote endpoint!",
   "biodata": [
      { "id": "1", "Nama": "Zulka Ali", "Alamat": "Jl.Poncol 1 No.4 " },
      { "id": "2", "Nama": "Back to the Future", "Alamat": "1985" },
