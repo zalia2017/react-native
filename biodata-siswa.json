@@ -1,8 +1,10 @@
- "biodata": [
-    { "id": "1", "Nama": "Zulka Ali", "Alamat": "Jl.Poncol 1 No.4 " },
-    { "id": "2", "Nama": "Back to the Future", "Alamat": "1985" },
-    { "id": "3", "Nama": "The Matrix", "Alamat": "1999" },
-    { "id": "4", "Nama": "Inception", "Alamat": "2010" },
-    { "id": "5", "Nama": "Interstellar", "Alamat": "2014" }
- ]
+{
+  "biodata": [
+     { "id": "1", "Nama": "Zulka Ali", "Alamat": "Jl.Poncol 1 No.4 " },
+     { "id": "2", "Nama": "Back to the Future", "Alamat": "1985" },
+     { "id": "3", "Nama": "The Matrix", "Alamat": "1999" },
+     { "id": "4", "Nama": "Inception", "Alamat": "2010" },
+     { "id": "5", "Nama": "Interstellar", "Alamat": "2014" }
+  ]
+}
 
